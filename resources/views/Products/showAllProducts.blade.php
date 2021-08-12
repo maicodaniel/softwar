@@ -45,7 +45,6 @@
                 <hr>
                 <div class="card-footer">
                     <a href="{{route('product.create')}}"  class="btn btn-success" role="button">Cadastrar</a>
-                    <a href="{{route('product.start')}}"  class="btn btn-success" role="button">Cadastrar</a>
                 </div>
             </div>
         </div>
